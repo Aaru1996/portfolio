@@ -35,7 +35,7 @@ export default function Skills() {
               <Box  boxShadow="md" rounded="md" bg="white" p="3%" _hover={{cursor:"pointer",boxShadow:"dark-lg"}}>
                 <Box display={"flex"}  justifyContent="space-around"
                    alignItems='center'>
-                  <Image w="40px" h="40px" src="https://mpng.subpng.com/20181125/gos/kisspng-react-javascript-redux-vue-js-angular-javascript-jquery-5bfa71f29a9d93.7758622015431398266333.jpg" />
+                  <Image w="40px" h="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXhjVqtRd6tiqcsSQ7rD6VF7NxI-3VvoR0w&s" />
                 </Box>
                 <Box>
                   <Text>
