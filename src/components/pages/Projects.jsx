@@ -53,7 +53,7 @@ export default function Projects() {
              It features includes User-Authentication, SignUp-Login, Responsive-UI, RESTful APIs Devlopment, MongoDb Integration, category-based filter, search by category and device-name,
               pagination, upload data, Add to Cart. </Text>
            <br/>
-           <Text> React.js | Node.js | Express.js | MongoDb | Chakra UI | CSS | </Text>
+           <Text> <span style={{fontWeight:"600"}}>Tech Stacks :</span> React.js | Node.js | Express.js | MongoDb | Chakra UI | CSS | </Text>
            <br/>
            <Box display="flex" justifyContent="flex-end" mr="2%" gap="5%" alignItems="center"> 
                <Button bgColor="blue" color='white'>
@@ -90,7 +90,7 @@ export default function Projects() {
            <Box display="flex" justifyContent="flex-end" mr="2%" gap="5%" alignItems="center"> 
                <Button bgColor="blue" color='white'>
                   <a href="https://github.com/Aaru1996/Sugar_Cosmetics_clone"
-                     target="_blank">Github</a>
+                     target="_blank" rel='noreferrer'>Github</a>
                </Button>
                {/* <Spacer /> */}
                <Button bgColor="blue" color='white'>
