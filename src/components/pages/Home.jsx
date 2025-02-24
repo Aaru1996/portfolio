@@ -10,7 +10,7 @@ export default function Home() {
 
           <Heading>Hi, I'm</Heading>
           <Heading>Arun Kumar Yadav</Heading>
-          <Heading>React JS Developer</Heading>
+          <Heading>MERN Stack Developer</Heading>
         </Box>
         <Box display='flex' gap='20px' mb="20px" mt="20px" justifyContent="center" >
            <Box boxShadow="lg"  _hover={{boxShadow:"dark-lg"}} p='3px' bgColor='white' borderRadius='5px'>
